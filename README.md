@@ -14,7 +14,7 @@ Clear and intuitive user interface.
 To get started with the Animated Calculator, follow these steps:
 
 Clone the repository:
-- git clone https://github.com/yourusername/animated-calculator.git
+- git clone https://github.com/GAURITYAGI1/animated-calculator.git
 
 Navigate to the project directory:
 - cd animated-calculator
