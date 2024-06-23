@@ -45,3 +45,5 @@ Push to the branch:
 
 - git push origin feature-or-bugfix-name
 
+##### inspected-demo:-
+![image](https://github.com/GAURITYAGI1/Animated-Calculator/assets/139331361/180a9ea6-6206-49cc-936d-eeb8366675e5)
