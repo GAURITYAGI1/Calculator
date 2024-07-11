@@ -1,8 +1,8 @@
-# Animated-Calculator - UI / UX
+# Calculator
  Welcome to the Animated-Calculator project - using HTML, CSS, JS with designing tools. This project is a visually appealing calculator application with smooth animations and an intuitive user interfaces and thier Experiences (UI/UX).
 
 ## Introduction
-The Animated Calculator is designed to provide users with a delightful and interactive experience while performing basic arithmetic operations. The application features a sleek design and smooth animations that make calculations more engaging.
+The Calculator is designed to provide users with a delightful and interactive experience while performing basic arithmetic operations. The application features a sleek design and smooth animations that make calculations more engaging.
 
 ## Features
 Basic arithmetic operations: addition, subtraction, multiplication, and division.
